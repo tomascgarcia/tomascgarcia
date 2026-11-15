@@ -11,3 +11,4 @@ Designing decoupled APIs with **.NET**, **Clean Architecture**, **SISS**, and **
 - 💬 `ping` me about **c#**, **.net**, **clean architecture**, **redis**, **system design**
 * **LinkedIn:** [linkedin.com/in/tom-garciacornejo](https://www.linkedin.com/in/tom-garciacornejo/)
 * **Email:** tomas_garcia_cornejo@yahoo.com
+* **Web:** https://tomascgarcia.github.io
