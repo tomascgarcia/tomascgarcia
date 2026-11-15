@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Software Engineer by day ☼ and a Systems & Architecture builder by night ☾
+#### A Software Engineer by day ☼ and a F1 fan by night ☾
 
 Systems & Computer Engineer focused on resilient backend systems;<br>
 Designing decoupled APIs with **.NET**, **Clean Architecture**, **SISS**, and **Redis**;<br>
